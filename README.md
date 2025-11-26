@@ -1,4 +1,4 @@
-![App Screenshot](img/Tela%20principal.png)
+
 
 # Projeto Jogo do Número Secreto
 
